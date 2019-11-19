@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Netflux</string>
+    <string name="title_movie">Film</string>
+    <string name="title_tv">Émission de Télévision</string>
+    <string name="tv_judul">Titre</string>
+    <string name="tv_ph">PH</string>
+    <string name="tv_tanggal">Date</string>
+    <string name="tv_overview">Vue d Ensemble</string>
+    <string name="img_cover">Couverture</string>
+    <string name="img_rating">Taux</string>
+    <string name="tv_rating">Taux</string>
+    <string name="change_language_settings">Changer de Langue</string>
+    <string name="img_time">time</string>
+    <string name="tv_waktu">time</string>
+    <string name="id_bahasa">fr-FR</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
